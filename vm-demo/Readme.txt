@@ -1,0 +1,1 @@
+This will sping VM with Public IP and Java installed
